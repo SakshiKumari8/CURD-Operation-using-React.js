@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#homePage{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+#homePage>a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 0px 0px 10px white;
+    font-style: italic;
+}
+#frm{
+    height: 86vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#frm>form{
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+    box-shadow: 0 0 10px white;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+}
+#frm>form>input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+#frm>form>input:focus{
+    color: white;
+    outline: none;
+}
+#frm>form>button{
+    height: 30px;
+    width: 100px;
+    background-color: transparent;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 0px 10px white;
+    color: white;
+    font-style: italic;
+}
+#frm>form>button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+h5{
+    font-size: 15px;
+    text-shadow: 0px 0px 10px white;
+    font-style: italic;
+    font-weight: lighter;
+    letter-spacing: 10px;
+    
+}
+
+

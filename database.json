@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "eName": "Sakshi",
+      "eSalary": 30000,
+      "eCompany": "ITC"
+    },
+    {
+      "eName": "Abhinav",
+      "eSalary": "30000",
+      "eCompany": "Accenture",
+      "id": 2
+    },
+    {
+      "eName": "Anu",
+      "eSalary": "50000",
+      "eCompany": "Ibm",
+      "id": 3
+    },
+    {
+      "eName": "Sadhna",
+      "eSalary": "25000",
+      "eCompany": "Capgi",
+      "id": 4
+    },
+    {
+      "eName": "Kritick",
+      "eSalary": "40000",
+      "eCompany": "ITC",
+      "id": 5
+    },
+    {
+      "eName": "Shreen",
+      "eSalary": "45000",
+      "eCompany": "PWC",
+      "id": 6
+    },
+    {
+      "eName": "Rohan",
+      "eSalary": "30000",
+      "eCompany": "Cogni",
+      "id": 8
+    },
+    {
+      "eName": "Praveen",
+      "eSalary": "350000",
+      "eCompany": "ITC",
+      "id": 9
+    }
+  ]
+}
